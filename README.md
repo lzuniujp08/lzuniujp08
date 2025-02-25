@@ -2,3 +2,4 @@
 - 👀 专注webgis开发10余年
 - 🌱 精通leaflet、openlayers、mapboxGL等webgis开发，熟知webgis开发原理
 - 📫 公众号：lzugis15；VX：lzugis；E-Mail：niujp08@qq.com
+- 《WebGIS开发 从入门到实践》作者，购买链接：https://u.jd.com/K1D3lk2
